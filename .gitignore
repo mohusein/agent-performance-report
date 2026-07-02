@@ -1,0 +1,22 @@
+# Credentials — never commit these
+.env
+
+# Generated output files
+Formatted_Agent_Report.xlsx
+Formatted_Agent_Report.csv
+ytel_agent_report.csv
+email_body.html
+
+# Logs
+*.log
+
+# Debug scripts
+debug_links.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromeDriver cache
+.wdm/
